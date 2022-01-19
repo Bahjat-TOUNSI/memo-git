@@ -1,49 +1,49 @@
 # Mon mémo Git
 
-gitMake a new folder (aka make directory)
+## Git make a new folder (make directory)
 
 **mkdir (folder name)**
 
-Navigate into an existing folder (change directory)
+## Navigate into an existing folder (change directory)
 
 **cd (folder name)**
 
-List the items in a folder
+## List the items in a folder
 
 **ls**
 
-Turn Git on for a folder
+## Turn Git on for a folder
 
 **git init**
 
-Check status of changes to a repository
+## Check status of changes to a repository
 
 **git status**
 
-View changes to files
+## View changes to files
 
 **git diff**
 
-Add a file's changes to be committed
+## Add a file's changes to be committed
 
 **git add (file name)**
 
-To commit (save) the changes you've added with a short message describing the changes
+## To commit (save) the changes you've added with a short message describing the changes
 
 **git commit -m "your commit message"**
 
-Add remote connections
+## Add remote connections
 
 **git remote add (remote name) (URL)**
 
-Set a URL to a remote
+## Set a URL to a remote
 
 **git remote set-url (remote name) (URL)**
 
-Pull in changes
+## Pull in changes
 
 **git pull (remote name) (branche name?)**
 
-Push changes
+## git Push changes
 
 **git push (remote name) (branch?)**
