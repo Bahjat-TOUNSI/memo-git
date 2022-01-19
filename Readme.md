@@ -47,3 +47,11 @@
 ## git Push changes
 
 **git push (remote name) (branch?)**
+
+## add a tag
+
+**git tag (tag_name)**
+
+## add a tag with Message
+
+**git tag -a (tag_name) -m "message"**
