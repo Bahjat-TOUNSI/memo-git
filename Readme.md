@@ -1,6 +1,6 @@
 # Mon mémo Git
 
-Make a new folder (aka make directory)
+gitMake a new folder (aka make directory)
 
 **mkdir (folder name)**
 
@@ -47,6 +47,3 @@ Pull in changes
 Push changes
 
 **git push (remote name) (branch?)**
-
-# M-mo-Git
-# memo-git
