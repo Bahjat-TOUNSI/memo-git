@@ -62,7 +62,7 @@
 
 ## switch a branch in git
 
-**git checkout (name of branch)**
+**git checkout (name of branch) or git switch (name of branch)?**
 
 ## create and name a branch
 
