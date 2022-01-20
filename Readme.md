@@ -58,4 +58,4 @@
 
 ## push and close issue
 
-** git commit -m "example - close #1"
+** git commit -m "example - close #1" **
