@@ -55,3 +55,7 @@
 ## add a tag with Message
 
 **git tag -a (tag_name) -m "message"**
+
+## push and close issue
+
+** git commit -m "example - close #1"
