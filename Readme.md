@@ -59,3 +59,27 @@
 ## push and close issue
 
 **git commit -m "example - close #1"**
+
+## switch a branch in git
+
+**git checkout (name of branch)**
+
+## create and name a branch
+
+**git checkout -b (name of branch)**
+
+## push a branch on github
+
+**git push origin (name of branch)**
+
+## merge branhces?
+
+**git merge (name of remote branch)/(name of derivated branch)**
+
+## delete local branch
+
+**git branch -d (name of branch)**
+
+## delete branch on github
+
+**git push origin :(name of branch)**
