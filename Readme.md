@@ -76,9 +76,9 @@
 
 **git merge (name of remote branch)/(name of derivated branch)**
 
-## delete local branch
+## delete branch
 
-**git branch -d (name of branch)**
+**git branch -D (name of branch)**
 
 ## delete branch on github
 
