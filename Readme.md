@@ -83,3 +83,5 @@
 ## delete branch on github
 
 **git push origin :(name of branch)**
+
+https://tecadmin.net/delete-commit-history-in-github/
